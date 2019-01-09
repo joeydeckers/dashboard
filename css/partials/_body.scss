@@ -1,0 +1,9 @@
+@import "../modules/colors";
+
+body{
+  background: $gray;
+  font-family: 'Lato', sans-serif;
+  .row{
+    padding: 20px;
+  }
+}

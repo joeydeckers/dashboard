@@ -1,0 +1,10 @@
+@import "../modules/colors";
+
+.btn-custom{
+  background: $blue;
+  color: $white;
+  float: right;
+  margin-top: 18px;
+  margin-right: 27px;
+  box-shadow: 0px 1px #00000014;
+}
